@@ -1,46 +1,46 @@
 {
   "Spotkania i działania związane z funkcjonowaniem i organizacją pracy zespołu": [
-    "CeZ-60-2023",
+    "CeZ-67-2024",
     "3. Inne zadania",
     "P1: Organizacyjne"
   ],
   "retro|review|planning": [
-    "CeZ-60-2023",
+    "CeZ-67-2024",
     "1. Realizacja historyjek w sprincie",
     "P1: Spotkania NEXUS (wydarzenia NEXUS +NIT)"
   ],
   "refinement": [
-    "CeZ-60-2023",
+    "CeZ-67-2024",
     "2. Spotkania",
     "P1: Refinement"
   ],
   "dev|impl|feature|Testy jednostkowe|Testy springowe": [
-    "CeZ-60-2023",
+    "CeZ-67-2024",
     "1. Realizacja historyjek w sprincie",
     "P1: Programowanie"
   ],
   "test": [
-    "CeZ-60-2023",
+    "CeZ-67-2024",
     "1. Realizacja historyjek w sprincie",
     "P1: Testy"
   ],
   "anl|anal|dtp": [
-    "CeZ-60-2023",
+    "CeZ-67-2024",
     "1. Realizacja historyjek w sprincie",
     "P1: Analiza"
   ],
   "daily": [
-    "CeZ-60-2023",
+    "CeZ-67-2024",
     "1. Realizacja historyjek w sprincie",
     "P1: Spotkania zespołowe (retro, daily, replaning, itp.)"
   ],
   "wsparcie": [
-    "CeZ-60-2023",
+    "CeZ-67-2024",
     "1. Realizacja historyjek w sprincie",
     "P1: Inne zadania z backlogu Sprintu"
   ],
   "Praca SM": [
-    "CeZ-60-2023",
+    "CeZ-67-2024",
     "3. Inne zadania zarządcze",
     "P1: Zarządcze"
   ]
